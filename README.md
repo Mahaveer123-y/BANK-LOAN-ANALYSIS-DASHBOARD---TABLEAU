@@ -5,7 +5,7 @@ To design a data-driven Tableau dashboard that provides end-to-end visibility in
 
 ## Project Overview:
 
-# Developed an interactive Tableau dashboard that consolidated loan data from multiple sources including SQL database and Excel files, covering over 50,000 loan applications across various branches and loan types.
+##  Developed an interactive Tableau dashboard that consolidated loan data from multiple sources including SQL database and Excel files, covering over 50,000 loan applications across various branches and loan types.
 
 # Conducted data cleaning, transformation, and blending to ensure consistency across fields such as loan amount, EMI details, customer type, interest rate, and repayment status.
 
