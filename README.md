@@ -51,5 +51,5 @@
 
 ## Tableau Desktop & Server, SQL, Excel, Data Blending, Calculated Fields, LOD Expressions, ETL Automation.
 
-## Outcome:
-# The dashboard provided real-time insights into loan performance, reduced manual reporting time by 60%, and enabled the management team to make data-driven credit and collection decisions, improving overall portfolio quality and operational efficiency.
+# Outcome:
+## The dashboard provided real-time insights into loan performance, reduced manual reporting time by 60%, and enabled the management team to make data-driven credit and collection decisions, improving overall portfolio quality and operational efficiency.
