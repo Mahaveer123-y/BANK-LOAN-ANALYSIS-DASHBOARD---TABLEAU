@@ -7,9 +7,9 @@
 
 ## Developed an interactive Tableau dashboard that consolidated loan data from multiple sources including SQL database and Excel files, covering over 50,000 loan applications across various branches and loan types.
 
-# Conducted data cleaning, transformation, and blending to ensure consistency across fields such as loan amount, EMI details, customer type, interest rate, and repayment status.
+## Conducted data cleaning, transformation, and blending to ensure consistency across fields such as loan amount, EMI details, customer type, interest rate, and repayment status.
 
-# Created a data model linking customer profiles, loan transactions, and payment history for accurate trend and cohort analysis.
+## Created a data model linking customer profiles, loan transactions, and payment history for accurate trend and cohort analysis.
 
 # Key KPIs & Metrics Tracked:
 
